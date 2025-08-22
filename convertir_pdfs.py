@@ -1,6 +1,6 @@
 # Convert pdf files in text files that are in the same folder
 # Leonidas Carrasco-Letelier
-# lcletelier@gmail.com
+# lcarrasco@inia.org.uy
 
 import fitz  # PyMuPDF
 import os
